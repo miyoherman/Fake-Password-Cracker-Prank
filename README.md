@@ -1,6 +1,6 @@
 # 🔐 Fake Password Cracker (Prank)
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/YourUsername/Fake-Password-Cracker-Prank?color=blue)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/DMS-Menula/Fake-Password-Cracker-Prank?color=blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## 💡 Overview
