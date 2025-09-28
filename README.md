@@ -12,7 +12,7 @@ This is a **harmless prank batch script** that simulates a password cracking too
 
 > **Important:** This does **not** crack real passwords and does **not** access any system beyond the simulation.
 
----
+--- 
 
 ## ⚙️ Features
 
